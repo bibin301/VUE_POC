@@ -1,0 +1,156 @@
+{
+    "account-search": [
+    ],
+    "footer": [
+      {
+        "Home": "Home",
+        "Login": "Login",
+        "Contact": "Conta ct Us",
+        "About": "About Us",
+        "Terms": "Terms and Conditions",
+        "Privacy": "Privacy Policy",
+        "Data": "Data Protection Policy",
+        "More": "More"
+      }
+    ],
+    "currencies": [
+      {
+        "currencyCode": "840",
+        "defaultCurrencyCode": "USD"
+      },
+      {
+        "currencyCode": "841",
+        "defaultCurrencyCode": "EUR"
+      },
+      {
+        "currencyCode": "842",
+        "defaultCurrencyCode": "GBP"
+      }
+    ],
+    "cardProducts": [
+      {
+        "cardProgramCode": "12344",
+        "cardProgramName": "T24 Black"
+      },
+      {
+        "cardProgramCode": "12345",
+        "cardProgramName": "T24 Pay Vault"
+      },
+      {
+        "cardProgramCode": "12346",
+        "cardProgramName": "T24 Black Shield"
+      }
+    ],
+    "account-search-results": [
+      {
+        "accountReference": "PSIT24JBLOGGS19800381001",
+        "cardProgram": "T24 Black",
+        "pan": "**0001",
+        "firstName": "Joe",
+        "lastName": "Bloggs",
+        "cardStatus": "Active",
+        "city": "London",
+        "country": "United Kingdom",
+        "aotb": "17.00 USD",
+        "accountBalance": "17.00 USD"
+      },
+      {
+        "accountReference": "PSIT24JBLOGGS19800381002",
+        "cardProgram": "T24 Black",
+        "pan": "**0001",
+        "firstName": "Joe",
+        "lastName": "Bloggs",
+        "cardStatus": "Lost",
+        "city": "London",
+        "country": "United Kingdom",
+        "aotb": "17.00 USD",
+        "accountBalance": "17.00 USD"
+      },
+      {
+        "accountReference": "PSIT24JBLOGGS19800381003",
+        "cardProgram": "T24 Black",
+        "pan": "**0001",
+        "firstName": "Joe",
+        "lastName": "Bloggs",
+        "cardStatus": "Cancelled",
+        "city": "London",
+        "country": "United Kingdom",
+        "aotb": "17.00 USD",
+        "accountBalance": "17.00 USD"
+      }
+    ],
+    "sidebar": [
+      {
+        "title": "SEARCH",
+        "icon_name": "fa fa-search",
+        "items": [
+          {
+            "title": "ACCOUNT SEARCH",
+            "path": "/account-search"
+          },
+          {
+            "title": "TRANSACTION SEARCH",
+            "path": "/transaction-search"
+          }
+        ]
+      },
+      {
+        "title": "CUSTOMER SERVICE",
+        "icon_name": "fa fa-commenting",
+        "items": [
+          {
+            "title": "REVIEW ESCALATED ACCOUNTS",
+            "path": "/review-escalated-accounts"
+          }
+        ]
+      },
+      {
+        "title": "COMPLIANCE",
+        "icon_name": "fa fa-file-text",
+        "items": [
+          {
+            "title": "REVIEW FLAGGED ACCOUNTS",
+            "path": "/review-flagged-accounts"
+          },
+          {
+            "title": "REVIEW SAR FILING",
+            "path": "/review-sar-filing"
+          },
+          {
+            "title": "REVIEW DISPUTES",
+            "path": "/review-disputes"
+          },
+          {
+            "title": "AMS REPORTS",
+            "path": "/ams-report"
+          }
+        ]
+      },
+      {
+        "title": "FINANCE",
+        "icon_name": "fa fa-signal",
+        "items": [
+          {
+            "title": "REPORTS",
+            "path": "/reports"
+          },
+          {
+            "title": "SETTLEMENT FILES",
+            "path": "/settlement-files"
+          },
+          {
+            "title": "REVIEW NEGATIVE ACCOUNTS",
+            "path": "/review-negative-accounts"
+          }
+        ]
+      },
+      {
+        "title": "USER MANAGEMENT",
+        "icon_name": "fa fa-address-card"
+      },
+      {
+        "title": "LOG OUT",
+        "icon_name": "fa fa-sign-out"
+      }
+    ]
+  }
